@@ -2,7 +2,7 @@ import React from 'react'
 import { useState } from 'react'
 export default function Profile() {
 
-    const[loggedIn,setLoggedIn]=useState(3)
+    const[loggedIn,setLoggedIn]=useState(1)
     //1,2,3
     return (
         <div>
